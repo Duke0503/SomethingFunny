@@ -44,15 +44,21 @@ Prompt Engineering chính là giải pháp. Nó giúp bạn giao tiếp hiệu q
 Hãy giao cho ChatGPT một vai trò rõ ràng, như cách bạn phân công nhiệm vụ trong một đội nhóm.
 - **Ví dụ:** *“Bạn là một giáo viên vật lý đang giảng bài. Hãy giải thích lực hấp dẫn bằng ngôn ngữ dễ hiểu cho học sinh lớp 10.”*
 
+---
+
 **2. Mô tả nhiệm vụ chi tiết và ngắn gọn**
 
 Một nhiệm vụ rõ ràng giống như chiếc la bàn giúp AI đi đúng hướng.
 - **Ví dụ:** *“Viết một bài blog 150 từ về lợi ích của năng lượng tái tạo dành cho người mới tìm hiểu.”*
 
+---
+
 **3. Cung cấp ngữ cảnh để tăng độ chính xác**
 
 Ngữ cảnh giống như một câu chuyện nền, giúp AI hiểu rõ hơn mục tiêu của bạn.
 - **Ví dụ:** *“Tôi quản lý một cửa hàng online bán đồ handmade. Hãy viết một bài đăng Instagram để quảng cáo sản phẩm nến thơm của tôi.”*
+
+---
 
 **4. Định dạng kết quả bạn muốn**
 
@@ -61,6 +67,8 @@ Muốn nhận được câu trả lời theo cách cụ thể? Hãy nói rõ đi
 - **Ví dụ 2:** *“Hãy viết một email xin việc dành cho vị trí lập trình viên, ngắn gọn và chuyên nghiệp.”*
 
 Những thử nghiệm này không chỉ giúp bạn tận dụng tối đa sức mạnh của AI mà còn mở ra nguồn cảm hứng mới.
+
+---
 
 **5. Tinh chỉnh và học hỏi từ kết quả**
 
@@ -87,6 +95,8 @@ Bạn đã bao giờ yêu cầu ChatGPT làm gì đó nhưng lại nhận đư�
 
 Phương pháp này nhanh và dễ dàng, nhưng có thể thiếu độ chính xác khi đối mặt với các nhiệm vụ phức tạp.
 
+---
+
 **2. Few-Shot Learning: Hướng Dẫn Thông Qua Ví Dụ**
 
 Thay vì để AI đoán mò, hãy cung cấp một vài ví dụ để định hướng cho nó.
@@ -110,6 +120,8 @@ Thay vì để AI đoán mò, hãy cung cấp một vài ví dụ để định 
 
 Bằng cách đưa ra ví dụ, bạn giúp AI hiểu chính xác định dạng và phong cách bạn cần.
 
+---
+
 **3. Chain-of-Thoughts**
 
 Đôi khi, bạn không chỉ cần một câu trả lời mà còn cần hiểu quá trình tư duy. Chain-of-Thoughts (CoT) là kỹ thuật yêu cầu AI giải thích từng bước một cách chi tiết.
@@ -130,6 +142,8 @@ Bằng cách đưa ra ví dụ, bạn giúp AI hiểu chính xác định dạng
   Bước 3: Cần 3 giờ để đi 180 dặm.
 
 Kỹ thuật này đảm bảo câu trả lời rõ ràng, dễ hiểu, và có thể áp dụng vào các bài toán hoặc phân tích phức tạp.
+
+---
 
 **4. Prompt Functions: Chuyển Yêu Cầu Thành "Chương Trình Nhỏ"**
 
@@ -153,6 +167,8 @@ Hãy nghĩ đến các prompt như những chương trình nhỏ gọn, nơi b�
   “Khám phá thành phố cùng chiếc balo bền bỉ và phong cách của chúng tôi—được thiết kế cho những cuộc phiêu lưu của bạn! #KhámPháĐôThị #PhụKiệnDuLịch”
 
 Cách này lý tưởng cho các nhiệm vụ lặp lại đòi hỏi tính nhất quán cao.
+
+---
 
 ### Tại Sao Kỹ Thuật Học Trong Ngữ Cảnh Quan Trọng?
 Những kỹ thuật này biến ChatGPT từ một công cụ đơn thuần thành một cộng sự thực thụ. Dù bạn đang tìm kiếm ý tưởng, giải quyết vấn đề, hay tạo nội dung sáng tạo, việc áp dụng đúng kỹ thuật sẽ mang lại hiệu quả vượt mong đợi.
