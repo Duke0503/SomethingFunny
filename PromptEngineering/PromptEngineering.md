@@ -285,7 +285,7 @@ Những kỹ thuật nâng cao này không chỉ giúp bạn giải quyết vấ
 
 Prompt Engineering không chỉ là một kỹ năng—it’s your secret weapon to unlock AI’s full potential. Khi bạn học cách viết các câu lệnh hiệu quả, bạn không chỉ đơn giản là sử dụng AI mà còn biến nó thành một cộng sự thông minh, sáng tạo và đáng tin cậy.
 
-Dưới đây là **8 thành phần quan trọng** giúp bạn tối ưu hóa việc tương tác với AI. Hãy coi chúng như một "hộp công cụ" mà bạn có thể sử dụng trong mọi tình huống, từ công việc đến đời sống cá nhân. Và đừng quên rằng, những thành phần này không chỉ giúp bạn cải thiện kết quả, mà còn mở ra một hành trình sáng tạo đầy hứng khởi!
+Dưới đây là một số thành phần quan trọng giúp bạn tối ưu hóa việc tương tác với AI. Hãy coi chúng như một "hộp công cụ" mà bạn có thể sử dụng trong mọi tình huống, từ công việc đến đời sống cá nhân. Và đừng quên rằng, những thành phần này không chỉ giúp bạn cải thiện kết quả, mà còn mở ra một hành trình sáng tạo đầy hứng khởi!
 
 ### Prompt Components for Optimized AI Collaboration
 **1. Trung thực và rõ ràng**
